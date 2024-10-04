@@ -9,3 +9,7 @@
 ## Then there are more headers.
 
 #### And more information in each section.
+
+###### such as pictures and graphs
+
+![Image of a big cat compared to a person](https://cat-world.com/wp-content/uploads/2021/07/man-holding-a-large-maine-coon-cat.jpg)
