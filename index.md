@@ -13,3 +13,11 @@
 ###### such as pictures and graphs
 
 ![Image of a big cat compared to a person](https://cat-world.com/wp-content/uploads/2021/07/man-holding-a-large-maine-coon-cat.jpg)
+
+###### or possibly some code
+
+``` javascript
+let a = 5;
+let b = 13;
+console.log(a + b);
+```
