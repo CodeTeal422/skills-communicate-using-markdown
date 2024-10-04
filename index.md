@@ -21,3 +21,9 @@ let a = 5;
 let b = 13;
 console.log(a + b);
 ```
+
+###### some times you need a list of things you have or are going to do. This is often used in github issues.
+
+- [ ] Setup frontend server
+- [x] Setup backend server
+- [x] Setup database server
